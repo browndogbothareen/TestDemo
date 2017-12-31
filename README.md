@@ -3,4 +3,4 @@
 Adding an additional line
 
 ![image]
-(TestDemo/dummy.png)
+(https://github.com/browndogbothareen/TestDemo/blob/master/dummy.png)
